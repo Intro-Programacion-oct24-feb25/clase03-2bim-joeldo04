@@ -32,7 +32,9 @@ public class Ejemplo11 {
         4    6
         30   52
         */
-        
+        // En este codigo se usan tres arreglos bidimensionales dos para 
+        // dar los valores de cada arreglo y otro para ir sumando los mismos al
+        // final presentara la suma de Fila y Columna en casa posicion respectiva 
         int valor1;
         int valor2;
         
